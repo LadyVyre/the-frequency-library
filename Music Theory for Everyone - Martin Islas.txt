@@ -1,0 +1,1583 @@
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music
+theory
+for
+everyone
+Copyright © 2022 Martin Alejandro Islas All rights reserved.
+No part of this publication may be reproduced or distributed in any form by any means without the written permission of the copyright owner.
+Music Illustrations and tracks by Martin Alejandro Islas using MuseScore and Adobe Illustrator.
+All melodies in Music Theory for Everyone that are not from the author  of the book are in public domain and can be found at imslp.org.
+Cover photography is courtesy of Dreamstime.com taken by Bekir Ugur.
+ISBN: 9798846806283
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music
+theory
+for
+everyone
+Martin Alejandro Islas
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+About the author: Martin has been teaching and developing Music courses  in  Music  theory  and  instrumental  technic  for  the  past decade. His passion for teaching now goes beyond the classroom. He studied in the Music Conservatory of Music Lopez Buchardo (Argentina)  and,  funny  to  say,  used  to  hate  Music  theory  in  his early years. Therefore he can truly empathize with his readers. He can read your mind, which, combined with his detailed knowledge of the subject, means you have a key book in your hands. Music Theory has never been put this easy!
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+to Rocky and Rocket
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+table of contents
+why music theory? ����������������������� x The grand staff ������������������������16
+how to use this book ������������������� xi Sharps and flats ���������������������17  Octaves ���������������������������������������17
+1�1 Sound ���������������������������������������� 2 Practice exercises �����������������18
+Solutions ������������������������������������19
+1�1 pitch and notation ������������������ 2
+Sound  �������������������������������������������2 scales and modes ����������������������� 22
+Timbre �������������������������������������������2 Intervals �������������������������������������22
+Duration ���������������������������������������2 Half step ������������������������������������22
+Amplitude ����������������������������������� 3 Whole step �������������������������������22
+Frequency ���������������������������������� 3 2�1 major scales ������������������������� 23
+1�2 notation ����������������������������������� 4 Practice exercise �������������������24
+Solution �������������������������������������25
+1�3 RHYTHM ������������������������������������� 5
+Notes and rests ����������������������� 6 2�2 minor scales ������������������������� 26
+Examples to practice Natural minor  ������������������������26  ��������������  7
+Dots and ties ����������������������������� 8 Harmonic minor  �������������������27
+Triplets and duplets ��������������� 9 Melodic minor ������������������������28
+More examples �����������������������10 Practice exercise �������������������29
+Solution �������������������������������������30
+1�4 time signature ���������������������� 11
+Simple meter ���������������������������12 2�3 key signature ������������������������ 31
+Compund meter ���������������������13 Practice exercise �������������������32
+Examples to practice �����������14 Solution �������������������������������������33
+1�5 tHE STAFF �������������������������������� 15 2�4 scale degrees ����������������������� 34
+The bass clef ����������������������������15 Practice exercise �������������������38  vii  The treble clef ��������������������������15 2�5 relative scales ��������������������� 36
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+table of contents
+Solution �������������������������������������39 3�6 cadences �������������������������������� 61
+2�6 pentatonic scales ���������������� 40 Authentic cadence ����������������61  Plagal cadence ����������������������62
+2�7 MODES ������������������������������������� 41 Deceptive cadence ��������������63
+Practice exercise �������������������43 Half cadence ���������������������������63
+Solution �������������������������������������44 Practice exercise �������������������64
+Harmony ��������������������������������������� 45 Solutions �����������������������������������65
+4�1 PART WRITING �������������������������� 68
+3�1 Intervals ������������������������������� 46
+Vocal Ranges ��������������������������69
+3�2 triads ������������������������������������� 48 Motion ����������������������������������������70
+Major triad ��������������������������������49 Distance ������������������������������������72
+Minor triad��������������������������������49        Doubling�������������������������������73
+Diminished triad ��������������������50 Resolution ��������������������������������73
+How to build a triad �������������50 Part writting cheat sheet �� 74
+How to identify a triad �������50
+4�2 part writing example ���������� 75
+"sus" chords������������������������������51
+Practice exercises ����������������79
+Practice exercise �������������������52
+Solutions �����������������������������������80
+Solutions �����������������������������������53
+4�3 common progressions ��������� 81
+3�3 inversions ������������������������������ 54
+Circle progression ����������������82
+3�5 seven chord ��������������������������� 57 Progression by thirds ���������82
+Major seventh�������������������������57 Progression by seconds����82
+Dominant seventh ����������������57 Practice exercises ����������������83
+Minor seventh ������������������������58 Solutions �����������������������������������84
+Half-diminished seventh ���58
+4�4 harmonic functions ������������� 85
+Seven chord inversions �����59
+viii
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+table of contents
+Tonic function ���������������������������85 6�2 relationships ������������������ 122
+Dominant function �����������������85 Relative keys ���������������������122
+Subdominant function ���������86 Paralel keys �����������������������122
+Inversions �����������������������������������86 Close related keys ����������122
+4�5 the second inversion ������������� 87 Practice exercise �������������124  Solution �������������������������������125  Passing 6/4 �������������������������������87
+Pedal 6/4 ������������������������������������88     6�3 tonicization and mode
+Neighbour 6/4 �������������������������89 mixture ���������������������������������� 126
+Arpeggiated 6/4 ����������������������90 Tonicization������������������������126
+Cadential 6/4 �����������������������������91 Mode mixture �������������������126
+Exercises �������������������������������������92 Practice exercise �������������127
+Solutions �������������������������������������93 Solution �������������������������������128
+4�6 harmonizing a melody ������������ 94 6�4 modulation ���������������������� 129
+Exercises �������������������������������������95 Pivot chord modulation 129
+Solution ���������������������������������������96 Direct modulation ����������130
+Solution ��������������������������������������� 97 Enharmonic modulation 130
+5�1 melodic structure ���������������100        Altered common tone modulation �������������������������130
+5�2 motivic development������������103 Sequential modulation �130
+Chain modulation �����������130
+5�3 NON HARMONIC TONES �������������108
+6�1 secondary function �������������116
+Practice exercise ��������������������119
+Solutions �����������������������������������120
+Solutions explained ��������������121
+ix
+why music theory?
+Music  theory  is  a  discipline  that  defines  and  studies  the
+elements  that  form  Music,  such  as  Harmony,  Melody,  Rhythm, Form and others� Understanding those features will not only help you write Music and interpret what you hear and read, but it will also work as a boost of inspiration to create and develop music once  you  understand  its  theory�  As  Jeff  Titon  (2016)*  said:  we make Music in two different ways; physically, when we produce it by singing or pressing the keys on a piano, we also make Music with our minds, analyzing, evaluating, generating and developing musical ideas�
+This book’s pages will explore the fundamentals of harmony,
+melody and rhythm� In addition, we will identify elements such as scales, key signatures, intervals, chords, progressions, motifs and devices to modulate and create and develop extended musical pieces�
+After  reading  this  book  and  completing  the  exercises  I
+propose, you will understand:
+•  How to assemble and organize multiple sounds to create
+Music�
+•  How to develop musical ideas�
+•  How  to  apply  criteria  to  assess  and  refine  technical  and
+expressive aspects of Music�
+Music is a language, and you will benefit from developing
+a  richer  vocabulary�  In  addition,  it  will  help  you  sight  read  and perform more accurately, improvise freely and develop a holistic view of Music�
+x
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+how to use this book
+knowing vs understanding
+You  will  find  many  concepts,  explanations,  and  examples
+throughout  this  book  chapters�  After  reading  these  pages,  you will  know  those  concepts  and  might  even  memorize  a  few� However, knowing something does not necessarily mean that we understand it�
+But,    how  can  you  get  to  understand  music  theory?  The
+answer  is  simple:  Through  practice�  To  truly  understand  Music Theory, you need to read music, write and listen music and create�
+I am inviting you to use and practice what you read here page
+by page� Whenever you encounter a new concept, interval, scale, chord progression or devise for modulation, go to your instrument or daw and play it and write it down� Then listen, compare, analyse and evaluate what you hear� At the end of each chapter, you will find practice exercises� Engage with those to further support your learning and most important of all:
+Make a lot of music :)
+*Titon, J. T. (2016). Worlds of music: an introduction to the music of the world’s peoples. Cengage Learning.
+xi
+music
+theory
+for
+everyone
+fundamentals s o u n d n o t a t i o n r h y t h m T I M E   S I G N A T U R E T H E   S T A F F
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+1.1 pitch and notation 1.1 Sound
+Definitions of what Music is are broad, and we can find as many of them as philosophers and musicologists have tried to define it� They all have something in common, though� They all consider Music as a sonic event� Therefore we will start this first chapter by discussing the essential characteristics of sound�
+Sound
+A sound is an aural event with a few distinctive characteristics� For example, it can be loud or soft; it has a frequency (how high or low is), duration (how short or long is) and colour (timbre)�
+Timbre
+Why does a note played on the trombone sound different from the identical pitch played on the saxophone or the guitar? Different instruments  can  play  the  same  piece  of  music  and  sound remarkably distinct� This is because they have different timbres�
+Comparing different families of instruments brings out the effect of timbre the most; for example, brass instruments have a very different  timbre  than  string  instruments  or  the  human  voice� In  addition,  different  instruments  have  diverse  tone  timbres even  within  the  same  family�  For  instance,  despite  being  wind instruments, the oboe and clarinet have different tonal colours�
+Duration
+Duration is the amount of time that a sound last� Sounds can be long or short, and we describe them using figures such as the whole note, the quarter note and others�
+22
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+Amplitude
+The amplitude of a sound wave determines how loud or soft a sound  is�  A  louder  sound  has  a  bigger  amplitude,  and  a  more soothing sound has a smaller amplitude� At the same time, the source  vibration  determines  the  amplitude  of  a  wave�  Greater amplitude is correlated with more intense vibration�
+Frequency
+We measure a sound’s frequency using units in Hertz� Hertz (Hz) is the vibration frequency in “times per second”� The higher the frequency, the higher the Pitch� The lower the frequency, the lower the Pitch� For musical purposes, we use note names to describe the  different  frequencies�  For  example,  if  a  string  vibrates  440 times in a second, we say we are listening to pitch A�
+Frequency = Pitch         Amplitude Volume
+The sound wave
+3
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+1.2 notation
+Many people believe that learning and reading conventional music notation  is  outdated;  others  fear  it  because  they  think  it  is  too challenging� At the same time, many musicians have succeeded without ever learning to read music, like Jimi Hendrix, Taylor Swift, and Paul McCartney, to mention a few� However, reading music is a valuable skill, and you will immensely benefit from it� Here I give three reasons why you should learn to read traditional music notation�
+1�  By learning to read traditional music notation, you can read
+and analyze different music and styles� That will make you a better composer as you will be able to borrow the different progressions, scales, chords and resources other musicians use�
+2�  Learning  traditional  music  notation  is  like  learning  a
+language;  soon  enough,  you  can  use  this  language  to communicate your ideas� Furthermore, you will be able to collaborate  with  other  musicians  easily,  as  not  everyone can play by ear, and indeed, there are no performers who read piano rolls�
+3�  Through  traditional  music  notation,  you  will  start  to
+understand every aspect of music, such as intervals, scales, harmony, chords and progressions, in a better, faster and more  efficient  way�  In  addition,  through  your  eyes  and ears, your brain will be ready to understand more complex aspects of music, making you a better musician�
+I hope you feel more inspired to learn to read traditional music notation, so let’s get started�
+44
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+1.3 RHYTHM
+Rhythm is a concept that frequently leads to confusion� To avoid misunderstandings, let’s define the basic terminology
+RHYTHM: Series of sound, duration and silence
+BEAT: The pulse (the beat of the metronome)� The basic
+unit of time of any given musical piece�
+TEMPO: The speed of the beat�
+DURATION: The length of sounds or silences�
+METER: The organization of beats into regular groups�
+SUBDIVISION: The division of the beat into two or three
+equal parts�
+We organize rhythm into PATTERNS of strong and weak
+beats and call that METER� Each complete pattern is a
+MEASURE�
+At the same time, we categorize different patterns of strong and weak beats into the following groups:
+Duple: Two beats per measure (ex� 2/4)� Triple: Three beats per measure (ex� 3/4)� Quadruple: Four beats per measure  (ex� 4/4)�
+Additionally, we categorize Meter into simple and compound�
+SIMPLE METER: It divided the beat into two�  COMPOUND METER: It divided the beat into three�
+5
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+NOTES AND REST
+Rhythm is how we organize sounds in time� Musical notation tells us when to play and when to be silent (rest)� Each symbol tells us how long notes last in relation to others� For example, two half notes equal a whole note and two-quarter notes equal one-half note�
+Notes                 Rest
+whole
+note
+half
+note
+quarter
+note
+eigth
+note
+sixteen
+note
+66
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+Examples to practice
+Listen and repeat the following rhythms—first the whole notes, then the half notes and finally the quarter, eighth and sixteen notes� Once you are used to them, perform these rhythms by yourself with a metronome at different speeds�
+What is a Metronome?
+A metronome is a device that will help you never lose the beat� The sooner you get used to it, the faster you master tempo� You can use the metronome exmbedded in your favourite daw or check on the internet for any online and free alternative�
+7
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Dots and ties
+Dots and ties are symbols extending a note’s length or duration�
+•  The dot extends the value             = of a single note by half of its original value�
+=
+•  The  tie  combines  the
+durational  values  of  two                = or more notes of the same pitch using a curved line�
+Ties also allow extending
+the  duration  of  a  pitch
+beyond a measure�
+=
+88
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+Triplets and duplets
+•  Triplets are a device that we use to write three notes in the
+time of two�
+•  We use duplets to write two notes in the time of three�
+Duplets will become clear once we understand meter�
+triplets                      duplets
+=          =
+=          =
+9
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+More examples
+Listen and perform the following examples�
+Doted eigth note and sixteen note:
+Sixteen note and doted eighth note:
+Sixteen note, eighth note and sixteen note:
+Quarter note and triplets of eighth note:
+10 10
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+1.4 time signature
+Time signature
+At the beginning of any given music score, we will find a fraction number� That is a time signature that specifies the meter in which the piece occurs�
+Time signatures consist of two numbers, one stacked above the other:
+•  The  lower  number  indicates  the  note  value  representing
+one beat (the beat unit)�
+2 = half note
+4 = quarter note
+8 = eight note
+•  The upper number indicates how many of those figures fit
+on each measure� At the same time, this number tells us if we are in a simple or compound meter�
+There are various types of time signatures� Here are examples of the  most  common  and  widely  used  time  signatures  in  modern music:
+11
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Simple meter
+2 Simple Duple 2/4: The top number two tells us that each measure has two beats� The number four below tells us that each beat is a 4 quarter note and that we subdivided the beat into two�
+2 Simple Duple 2/2: The top number two tells us that each measure has two beats� The number two below tells us that each beat is 2 a half note and that we subdivided the beat into two�
+3 Simple Triple 3/4: The top number two tells us that each measure has three beats� The number four below tells us that each beat is 4 a quarter note and that we subdivide the beat in two�
+4 Simple Quadruple 4/4: The top number two tells us that each measure has four beats� The number four below tells us that each beat is a quarter note and that we subdivide the beat in two� 4
+12 12
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+Compund meter
+6 Compound Duple 6/8: The number six tells us that each measure has two beats� The number eighth below tells us that each beat is a dotted quarter note and that we subdivided the beat into three eight notes 8 (3+3=6 eighth notes in each measure)�
+9 Compound Triple 9/8: The number nine tells us three beats in each measure� The number eighth below tells us that each beat is a dotted quarter note and that we subdivide the beat into three eight notes 8 (3+3+3=9 eighth notes in each measure)�
+12 Compound Quadruple 12/8: The number twelve tells us that each measure has four beats�  The number eight below tells us that each beat is 8 a dotted quarter note and that we subdivide the beat into three eight notes (3+3+3+3=12 eight notes in each measure)�
+13
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Examples to practice
+Simple duple
+Simple triple
+Compound duple
+Compound triple
+14 14
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+1.5 tHE STAFF
+We write tones or pitches on a staff of five lines and four spaces� Each line or space corresponds to a letter of the alphabet (only the letters A through G)� Once you arrive at G, you start over again with A� names of the lines and space depend on the clef we use� Many different clefs exist for various purposes� Here, for simplicity, we will only look at the most widely used clefs: The Treble Clef (aka G clef), the bass clef (aka the F clef) and the combination of both; The Grand Staff�
+THE TREBLE CLEF                THE BASS CLEF
+Notes in the staff with a treble clef
+Notes in the staff with a bass clef
+15
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+The grand staff
+16 16
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+Octaves
+The previous page indicates each note with its corresponding key on  a  piano�  The  lowest  note  is  E2,  and  the  highest  note  is  B5� There are three “C“s on the graphic and with each one of them, it begins a new octave� All pitches within the same octave are labelled with the same number�
+Ledger lines
+You can write notes below or above the limits of what the staff allows by adding ledger lines, as is the case with E2 and A5�
+Sharps and flats
+See  how  there  is  no  “black  key“  between  E  and  F�  There  is  a distance of a half step between E and F and between B and C� At the same time, there is a half step between C and the black note to its right� That note is a half step higher than C; we call it C# (C Sharp)� A sharp (#) raises the pitch half step above its natural pitch� A flat (b) added to the note means the pitch is a Whalf step lower�
+C#   D#       F#   G#   A# Db   Eb       Gb   Ab   Bb
+B                            B
+A#   C    D    E    F            A# Cb   B#       Fb   E#   G    A   Cb
+17
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Practice exercises
+Let’s practice what we just learn so we do not forget  it  that  easily�  Identify  the  notes  of  the following piece by Thomas Dunhill (melody in c)�)
+18 18
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+fundamentals
+SOLUTIONS
+E    D   C   F    B   G    C     A
+C          D       E         F
+F                                 E    D E D C B C D C B
+G   E    C     G
+E      D C   F    B   G E D C A
+C           D       E          F
+D
+F E    D C         C D    E        C B
+B G            G    E
+C
+19
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+20 20
+music
+theory
+for
+and m a j o r   s c a l e s modes m i n o r   s c a l e s k e y   s i g n a t u r e s c a l e   d e g r e e s r e l a t i v e   s c a l e s scales everyone p e n t a t o n i c   s c a l e s
+M O D E S
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+scales and modes Scales are a fundamental part of music, as there is always a scale at the core of every melody you hear� Simply put, scales display a menu of sounds that a composer can choose to create a melody and the harmony that goes with it�
+Knowing  scales  and  functions  will  allow  you  to  combine sounds and chords effectively to create melodies and harmonic accompaniments�
+Intervals
+Intervals are the distance between two notes�
+Half step
+A Half step is the smallest interval we can play with a piano� We have a half step when two notes have no note in between them� Examples: B - C, E - F, C - C#
+Whole step
+We have a whole step when two notes have one note in between them� C - D, D - E, B - C#
+C#   D#       F#   G#   A# Db   Eb       Gb   Ab   Bb
+B                            B
+A#   C    D    E    F            A# Cb   B#       Fb   E#   G    A   Cb
+22 22
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+2.1 major scales
+A scale is a sequence of sounds ordered in whole and half-step patterns�
+Many  types  of  scales  are  available  for  composers,  such  as  the major and minor, pentatonic, chromatic and whole tone scales, among others� In this chapter, you will learn to build from scratch on any scale you need without having to memorize all of them�
+The major scale
+The major scale will start and end on the same note, which we will call tonic� All major scales are created using a pattern of whole and  half  steps�  To  make  any  scale  fall  into  the  pattern,  we  use sharps or flats, but not both at the same time See  the  following  examples  and  notice  that  the  half  steps  are between the 3rd and 4th degrees and the 7 degrees and the tonic�
+C Major                                          half whole whole step step step
+whole whole half   whole step    step    step    step
+D Major
+half
+whole whole step step   step
+whole whole half   whole step    step    step    step 23
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+As you can see you can create any major scale you want, all you need to do is to choose a tonic and complete the scale following the pattern of whole and half steps for major scales (whole, whole, half, whole, whole, whole, half)�
+Use  the  space  below  to  write  down  the  following  major  scales (Make sure you do not mix sharps and flats on the same scale� They all have either sharps or flats, but not both): E major
+A major
+B  major
+E  major
+(pay attention to the clef)
+Once you’re done, play the scales on your instrument or/and write them down on the piano roll of your favourite daw�
+24 24
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+solution
+E major
+A major
+B  major
+E  major
+25
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+2.2 minor scales
+The same as the major scale, minor scales will start and end on the same note� However, the pattern of whole and half steps will be different� There are three variants of the minor scale:
+natural minor
+A minor
+whole          whole whole          whole whole
+step            step    step           step    step half half
+step                   step
+C minor
+whole          whole whole          whole whole
+step            step    step           step    step half half
+step                   step
+26 26
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+harmonic minor
+Distintive  characteristics  of  the  harmonic  minor  scales  are  the interval of a step and half between the 6th and 7th degrees and the half step between the 7th and the tonic�
+A minor harmonic
+whole          whole whole          whole step            step    step half    half            half step step                   step           step
+and
+half
+C minor harmonic
+whole          whole whole          whole step    half    step    step    half            half step step                   step           step
+and
+half
+27
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+melodic minor
+The melodic minor scale looks different depending on whether it is ascending or descending� When ascending has a minor third with all the other notes the same as a major scale� When descending, it does it like a natural minor scale�
+A minor melodic minor
+half                    half                half     half
+step                 step              step    step
+C minor melodic minor
+half                    half                half     half
+step                 step              step    step
+28 28
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+practice exercise
+Use the staf below to write:
+•  D minor natural
+•  D minor harmonic
+•  D minor melodic
+Once you’re done, play the scales on your instrument or/and write them down on the piano roll of your favourite daw�
+29
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solution
+D minor natural
+D minor harmonic
+D minor melodic
+30 30
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+music theory
+scales and modes
+2.3 key signature
+The  pattern  we  use  to  generate  the  major  scale  results  in  the alteration of pitches (except in C major); those altered pitches are called key signature�
+We write the key signature at the beginning of each staff to indicate which pitches are to be sharp or flat throughout the composition� There is a particular order in which sharps and flats should be written on key signatures�
+The order of the sharps is F C G D A E B:
+To quickly find out how many and which sharps a time signature needs, you can:
+•  First, memorize the order of sharps
+•  Then count sharps until the 7th degree
+of the scale you want to find the key signature�  Example:  To  find  B’s  key signature,  count  sharps  until  A  (7th degree of B)� Then the key signature of B has F C G D A sharps The order of the flats is the same but reversed, B E A D G C F:
+To quickly find out how many and which flats a time signature needs, you can:
+•  First, memorize the order of flats�
+•  Then  count  flats  until  the  tonic  and
+then add one more� Ex: To find Gb’s key signature, count flats until G and add one more (Cb); Then the key signature of Gb has B E A D G C flats�
+31
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+Use the staf below to find the key signature of
+•  G Major •  Ab Major
+•  D Major •  Eb Major
+•  F# Major •  Db Majo
+32 32
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+solution
+G Major                    Ab Major
+D Major                     Ab Major
+F# Major                    Db Major
+33
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+2.4 scale degrees
+Every  major  or  minor  scale  has  seven  pichtes�  We  call  these pitches “degrees” and every single one of them has a function�
+Scale    Solfedge Function       Description degree 1st      Do       Tonic           The tonic note defines the name
+of the scale and functions as the
+tonal centre� It serves as the natural
+resolution in both major and minor
+scales�
+2nd   Re     Supertonic    Super means above the Tonic� It
+resolves downwards to the Tonic�
+It is halfway between the Tonic and
+3rd    Mi      Mediant       the Dominant� The mediant is a
+resolution tone as the Subdominant
+resolves in it�
+Sub means below� The Subdominant
+4th is a fifth below the tonic and a step  Fa  Subdominant below the Dominant� It resolves
+downwards to the mediant�
+5th                           The dominant is a fifth above the So (sol) Dominant Tonic� It is the most important pitch
+in the scale after the Tonic�
+The Submediant is halfway between
+6th    La      Superdominant the Subdominant and the Tonic�
+It resolves downward  to the
+Dominant�
+7th     Ti        Leading tone   The leading tone resolves upwards to
+the tonic�
+34 34
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+C major
+Leading
+Mediant                             tone
+Supertonic      Subdominant       Superdominant Tonic                            Dominant
+Certain  degrees  of  the  scale  sound  more  stable  than  others, stable sounds, also known as restive tones, are the Tonic and the Mediant� On the other hand, some other pitches generate tension and tend to resolve in stable tones� We call these pitches Active Tones� The strongest active tone is the leading tone�
+G major
+Leading
+Mediant                             tone
+Tonic Supertonic      Subdominant       Superdominant Dominant
+35
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+2.5 relative scales
+Relative scales are those major and minor scales with the same pitches and, therefore, the same key signature� The only difference is that they start on a different tonic� You will find the relative minor of any major scale on its six degree (Ex The relative minor of F Major is D minor)� At the same time, you will find the relative major of any minor scale on its third degree (Ex: The relative Major of E minor is G Major)�
+C major
+and
+A minor
+G major
+and
+E minor
+36 36
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+B major
+and
+G# minor
+F major
+and
+D minor
+Gb major
+and
+Eb minor
+37
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+Find the relative minor scale of E Major and Eb Major
+Find the Relative major scale of B minor�
+Tips:
+•  Start with the key signature�
+•  Build the source scale first and find its relative (6th degree
+for minor relatives and 3rd degree for major relatives)�
+•  Then, build the relative scale, and don't forget the key
+signature�
+38 38
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+solution
+E major
+and
+C# minor
+Eb major
+and
+Cb minor
+B minor
+and
+D major
+39
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+2.6 pentatonic scales
+The pentatonic scale is widely used in popular music� Many guitar solos are made using pentatonic scales� The Pentatonic Scale has five tones, and it is a major scale without the Subdominant and the Leading Tones (Ex C–D–E–G–A–[C])
+There are other four modes of the pentatonic scale� Which are the same tones but with a different tonic
+A–C–D–E–G–(A)
+D–E–G–A–C–(D)
+E–G–A–C–D–(E)
+G–A–C–D–E–(G)
+40 40
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+2.7 MODES
+Modes  are  a  type  of  scale  with  different  whole  and  halftone patterns� They are also called church modes, greek modes and sometimes just modes�
+Here are the six modes relative to C Major� However, remember that you can build them relative to any major scale you want�
+Ionian Mode
+Relative to the 1st degree of the major scale.
+Dorian Mode
+Relative to the 2nd degree of the major scale.
+Phrygian Mode
+Relative to the 3rd degree of the major scale.
+41
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Lydian Mode
+Relative to the 4th degree of the major scale.
+Mixolydian Mode
+Relative to the 5th degree of the major scale.
+Aeolian Mode
+Relative to the 6th degree of the major scale.
+Locrian Mode
+Relative to the 7th degree of the major scale.
+42 42
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+practice exercise
+1�  Starting from E write the pentatonic scale relative to E Major�
+2�  Write the Dorian and Mixolydean modes relative to E Major�
+3�  Write the Phrygian mode relative to Eb Major�
+43
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solution
+E major
+penatonic
+Dorian mode
+relative to E
+major
+Mixolydean
+mode relative
+to E major
+Phrybian
+mode relative
+to Eb major
+44 44
+music
+theory
+for
+Harmony everyone
+i n t e r v a l s
+T r i a d s
+C h o r d   f u n c t i o n
+s e v e n   c h o r d
+c a d e n c e s
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+HARMONY
+We  did  learn  scales�  Now  we  will  learn  chords  and  get  a  step closer to being able to create our music from scratch�
+As a discipline, Harmony studies the phenomenon of combining notes�  The  combination  of  sounds  results  in  consonances  and dissonances that we can use to create music that portrays our expression and intent� In the following pages, we will look at the principles behind Harmony� Then, you will learn to build any chord you want on the spot without the need to memorize them all�
+3.1 Intervals
+An interval is the distance between two notes� They are essential for  us  now  as  they  are  the  basis  of  chords�  Intervals  can  be melodic when the different pitches sound one after the other (as in a melody)� Or they can be harmonic when we hear the different notes simultaneously�
+We consider the size (number) and quality (major, minor, perfect, diminished or augmented) to identify and describe intervals� All intervals built from the tonic up are major or perfect within a major scale� On the other hand, within the minor scale, all intervals build up from the tonic are either minor, major or perfect�
+Intervals can also be simple or compound� Simple intervals are within the octave, and compound intervals exceed the octave (Ex 9th, 11th, 12th etc�) Calculating compound intervals can be easy if we think of them as  simple  intervals;  for  that,  we  need  to  subtract  seven  from whatever compound interval we have� Ex 11th - 7 = 4th�
+46 46
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+C major
+perfect    major    major perfect     perfect major    major perfect unison    2nd     3rd     4th       5th      6th     7th       8th
+A minor
+perfect    major    minor perfect     perfect minor    minor    perfect unison    2nd     3rd    4th        5th      6th     7th        8th
+Interval           Distance              Examples
+Minor 2nd       Half step             C - Db
+Major 2nd       Step                C - D
+Minor 3rd        Step and half         C - Eb
+Major 3rd        Two steps           C - E
+Perfect 4th       Two steps and half    C - F
+Diminished 5th   Three steps (tritone) C - Gb
+Perfect 5th       Three steps and half C - G
+Minor 6th        Four steps           C - Ab
+Major 6th        Four steps and half   C - A
+Minor 7th        Five steps            C - Bb
+Major 7th        Five steps and half    C - C
+Perfect 8th       Six steps              C - C
+47
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+3.2 triads
+A chord is a group of notes that you can hear at the same time� There are many “kinds“ of chords� We’ll  start  learning  the  basic  form  of  them; TRIADS�
+A  triad  is  made  of  three  notes,  one  on  top  the other� If we count intervals from the root, a triad contains a third and a fifth�
+Root:  We  build  chords
+from the root� At the same
+time,  the  root  will  give  us
+the triad's name�                               Root: C
+Third: The third determines
+the  quality  of  our  triad�
+Major thirds result in major
+chords� On the other hand,  3rd: E (major third)
+a  minor  third  results  in  a
+minor chord�
+a perfect chord� Diminished  5th: G (perfect fifth)  fifth on a diminished chord�  Fifth: Perfect fifth results in
+C Major
+48 48
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+Major triad
+•  Here  there  is  an  example
+of a major triad: C Perfect
+Major
+•  The root is C�
+•  The  third  is  a  major  third:
+E (which is two steps away
+from C)
+•  The  fifth  is  a  perfect  fifth,
+three steps and a half away
+from C�                        C       E       G
+major   minor
+third     third
+minor triad
+•  Here  there  is  an  example
+of a minor triad: C Perfect
+Minor
+•  The root is C�
+•  The  third  is  a  minor  third:
+Eb (which is one step and
+a half away from C)
+•  The  fifth  is  a  perfect  fifth,              Eb
+three steps and a half away      C                G from C�
+minor    major
+third      third
+49
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+diminished triad
+•  Here there is an example
+of a diminished triad: C
+Diminished Minor
+•  The root is C�
+•  The third is a minor third:
+Eb (which is one step and
+a half away from C)
+•  The fifth is a diminished                Eb       Gb fifth Gb (three steps away
+from C)�                          C
+minor   minor
+third     third
+How to build a triad
+1�  Start writing the root
+2�  Write down the first third� It will be a major third (two steps) for
+major chords or a minor third (one step and half) for minor and
+diminished chords�
+3�  Write down the fifth� It will be a perfect fifth (three steps and
+half) for perfect chords and a diminished fifth (three steps) for
+diminished chords�
+How to identify a triad
+1�  Identify the root
+2�  To identify the third, count how many steps are between the
+root and the third (two steps for major thirds and one step and
+a half for minor thirds)�
+3�  To identify the fifth, count how many steps are between the
+root  and  the  fifth  (three  steps  and  half  for  perfect  fifth  and
+three steps for diminished fifth)
+50 50
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+"sus" chords
+A sus chord or suspended chord is a chord in which the third is replaced by either a perfect fourth (sus 4th or sus 11th) or a major second (sus 2dn or sus 9th)�
+C D        G
+Csus2
+minor   perfect
+second fourth
+C        F G
+Csus4
+perfect    minor
+fourth    second
+51
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+1� Identify the following chords:
+2� Build the following chords:
+D major         D minor        A major       C minor
+A minor         F minor         G major       Eb major
+52 52
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+solutions
+E minor        C major       F major          B minor
+E major         Bb Major       F major        C major
+D major         D minor        A major       C minor
+A minor         F minor         G major       Eb major
+53
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+3.3 inversions
+We have an inversion when a chord has any pitch other than the root as the lowest sound�
+As we have three pitches in a triad, then we have three possible positions:
+• Root position: The root of the chord is in the bass�  • First inversion: The third of the chord is in the bass�  • Second inversion: A fifth of the chord is in the bass�
+Figured bass
+Figured bass is a notation in which chord inversions are indicated by numbers� Each numeral expresses the interval that results above the bass�
+inversion         EXAMPLE             figured bass SIMBOL Root position:  You can either write
+The root of the  5 or leave the space
+bass�                                        empty� root I chord is in the                               besides the chord First inversion:
+chord is in the                       third bass�  The third of the       6
+I 6
+inversion: The                     fifth fifth of the chord is I 6       4 in the bass Second                               6 4
+54 54
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+3.4 functions
+The harmonic function of a chord depends on the scale degree on which it is built� For example, the tonic triad in C major scale will be the C major chord, and The tonic triad in F major scale will be the F major chord�
+We do label chords functions by using Roman numerals� Major chords are labelled with uppercase Roman numerals, and minor chords use a lowercase numeral� For diminished chords, we use °�
+C major
+C major D minor E minor F major G major    A         B
+minor diminished
+I ii iii IV V vi vii o
+Tonic               Subdominant
+function                        Dominant
+function
+55
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+As all major scales use the same pattern of tones and semitones, chords built upon every pitch of the scale create the same chord quality (major, minor, diminished etc�) in every major scale� That means that all major scales will have: •  Major chords: I, IV and V�
+•  Minor chords: ii, iii, iv�
+•  Diminished chord: vii
+Scale and chords in G major
+F#
+diminished
+G major A minor B minor C major D major E minor
+I    ii    iii   IV   V   vi   vii o Tonic               Subdominant
+Dominant
+Scale and chords in F major E
+diminished
+F major G minor A minor Bb major C major D minor
+I    ii    iii   IV   V   vi   vii o Tonic               Subdominant
+Dominant
+56 56
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+3.5 seven chord
+A  seven  chord  is  a  chord  with  four  notes:  The root,  the  third,  the  fifth  and  the  seventh�  There are  several  “kinds“  of  seven  chords�  These  are the most commonly used:
+major seventh
+Major triad with a major
+seventh�
+C Maj7
+dominant seventh
+Major triad with a minor
+seventh�
+C 7
+57
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+minor seventh
+Minor triad with a minor
+seventh�
+Cm7
+Half-diminished seventh
+Diminished triad with a minor
+seventh
+C0 or Cm7 b5
+Remember: For a major seven you need to count six steps from the root� On the other hand for a minor seven you should count five steps and half�
+58 58
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+seven chord inversions
+As  a  seventh  chord  has  four  pitches  there  are  four  different possitions possible for it�
+EXAMPLE              INVERSION        SIMBOL
+Root position          7 The root is the lowest sound�
+First inversion         6 The third is the lowest 5 sound�
+Second inversion     4 The fifth is the lowest    3 sound�
+Third inversion        2 The seven is the lowest sound�
+59
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+seven chord funtions and labels
+Cmaj7     Dm7    Em7    Fmaj7 G7     Am7 B half dim 7
+Imaj7     ii7       iii7   IVmaj7     V7       vi7     vii70
+Tonic                         Subdominant                         Leading Dominant              tone
+Note that:
+•  The quality of the seventh is the same as the quality of the
+triad in all exept V�
+•  The symbol for a minor seventh is 7�
+•  The symbol for a major seventh is Maj 7�
+•  When we add a minor seventh to a diminished triad it
+results on a half-diminished chord�
+60 60
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+3.6 cadences
+We did learn scales, triads, 7th chords, inversions and  functions�  Now  things  will  start  getting interesting as we can write short music sections through our next topic: Cadences�
+Cadences  are  the  harmonic  conclusion  to  a musical  phrase  or  “section“�  At  the  same  time, through  cadences,  we  can  establish  the  tonal centre of our pieces� There are several types of cadences that we can use�
+Authentic cadence
+The most common phrase-ending chord progression� V-I or V-i � In addition you can also use the V7 to add dissonance�
+perfect Authentic cadence
+(PAC) Both dominant and tonic
+chords are in root  position�
+In  this  example  you  can  see
+both chords in root position, as
+the  root  is  the  bass�  It  does  no
+matter  the  order  in  which  the
+other sounds are arranged�
+V   I
+61
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+imperfect Authentic cadence
+(IAC) It has either chord inverted�
+Also,  a  cadence    utilizing  the
+leading tone (vii°or vii°6) to tonic
+progression  is  also  considered
+an imperfect authentic cadence�
+V6    I
+plagal cadence
+(PC): IV-I�
+IV      I
+62 62
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+deceptive cadence
+(DC) (or interrupted): VI or vi�
+V   VI
+half cadence
+(HC): It is a cadence that ends on the dominant (V)�
+I       V
+63
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+Write an authentic, plagal deceptive and half cadences on A Major�
+Step 1: Build the key signature
+Step 2: Build the scale and identify the chords you need
+Step 3: Label the chords you need below the staf�
+Step 4: Build the chords�
+Authenthinc cadence           Plagal cadence
+Deceptive cadence            Half cadence
+64 64
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+scales and modes
+SOLUTIONS
+Authenthinc cadence           Plagal cadence
+E              D A A
+V     I                IV    I
+Deceptive cadence            Half cadence
+E F#m         A E
+v      vi                        i      v
+65
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+66 66
+m u s i c
+theory
+for
+l e a d i n g p a r t   w r i t i n g part writing example common progressions h a r m o n i c   f u n c t i o n s V o i c e everyone
+the second inversion
+harmonizing a melody
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+4�1 PART WRITING
+Part-writing  (or  voice  leading)  is  the  composition  of  melodic lines  considering  the  relationship  between  voices  (vocal  or instrumental)  and  the  resulting  harmony�  To  better  understand part writing, we will use figured bass exercises� Figured Bass is another way of notating music in which we find roman numbers below bass notes�
+Figured bass notation gained popularity among musicians during the  17th  and  18th  centuries,  but  it  is  still  used  and  taught  in conservatories and music academies worldwide�
+Here’s an example of what it looks like:
+I          IV       vi           V          7         I
+68 68
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+Figured Bass is usually taught in Music Theory curricula to help students understand voice-leading principles� But, at the same time, it provides an excellent way to gain a deeper comprehension of the fundamentals of harmony and composition�
+When completing figured bass exercises, we write on a grand staff for a choir� And, we need to keep in mind the following "rules":
+Vocal Ranges
+When doing figured bass, we compose music for a choir of four voices� The female voices are soprano and alto� The male voices are tenor and bass� We write female voices on the treble clef and male voices on the bass clef� Also, it is essential to remember the vocal range of each voice:
+•  The soprano and tenor range  is from C to A� •  The alto range is from G to E�
+•  The bass range is from F to C�
+Soprano range (C-A)         Alto range (G-E)
+Tenor range (C-A)          Bass range (F-C)
+69
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Movement of each voice
+When doing figured bass, we are writing four different voices that have to sound harmonious and fit well within each other� That is the challenge� We are not writing four different voices doing the same thing� Voices need independent movement and individual characters�
+Through  analysing  and  completing  figured  bass  exercises,  you will find out that:
+•  The bass is the most disjunct (moving by leaps) voice of all� •  The soprano has the melody and most often moves by step (conjunct motion), but sometimes it moves by leap�
+•  The alto and the tenor move as little as possible�
+Motion
+There are four tipes of motion
+•  Contrary  motion  is  when  the
+upper  and  lower  voices  move
+in  opposite  directions�  It  is  the
+most desirable type of motion as
+we aim for voice independence�
+•  Oblique  motion is  when  one
+voice remains on the same note
+and  the  other  moves  in  either
+direction�
+70 70
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+•  Similar  motion  is  when  the
+upper  and  lower  voices  move
+in  the  same  direction  but  at
+different intervals�
+•  Parallel  motion is  when  the
+upper  and  lower  voices  move
+in the same direction and at the
+same interval� Parallel motion is
+the least desirable type of motion,
+and  writing  parallel  octaves  or
+parallel  fifths  is  considered  an
+egregious  error�  Parallel  fifths
+and  eighths  are  to  be  avoided
+as  it  confuses  the  distinction
+between the independent voices
+and makes them sound like one�
+A good part should contain all four types of motion but feature contrary motion most often�
+71
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Avoiding overlapping and Crossing voices
+•  Crossing  voices  means  writing,  for  example,  the  soprano
+lower than the alto or the alto lower than the tenor�
+•  Overlapping  voices means  moving  one  voice  to  the  same
+note, or higher or lower than the position another voice has
+been in the previous chord�
+We should avoid both overlapping and crossing voices�
+Crossing voices                 Overlaping voices
+In this example the bass  The tenor moves to the note
+moves above the tenor. the bass was in the previous
+chord.
+Distance
+There must be an octave between the upper voices, soprano and alto, and tenor and alto� However, it does not matter how far the tenor is from the bass�
+Between alto and soprano an
+octave or less�
+Between tenor and alto an octave
+or less�
+Between bass and tenor more
+than an octave is ok�
+72 72
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+Doubling
+As  we  have  four  voices  available,  we  will  write  a  note  twice whenever  we  use  triad  chords�  We  call  that  doubling�  When doubling notes, keep in mind the following�
+1�  The first option should always be the root�
+2�  The second choice to double it should be the fifth�
+3�  We should do our best to avoid doubling the third�
+4�  A chord in the second inversion should double the fifth�
+5�  Never double a leading tone�
+6�  Include  all  four  notes  of  a  seventh  chord�  However,  it  is
+common to omit the fifth in V7�
+The easiest way to avoid voice-leading errors is by trying to move voices as little as possible by keeping common notes between chords on the same voice or moving non-common notes to the nearest note possible�
+The  movement  of  voices  is  more  important  than  whether  we double the root or not�
+resolution
+There are rules to resolve the tension� It would help you if you memorise and apply them when necessary�
+1�  Ti always resolves upward to Do (whenever V or VII goes
+to I, i, VI or vi)�
+2�  Fa resolves to Mi (whenever vii°/vii°7 or V7 goes to I, i, VI
+or vi)�
+73
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Part writting cheat sheet
+1� VoiceRange:thesopranoandtenorrangeis   fromCtoG;thealtoandbassrangeisthefrom    GtoC�
+2� Neverwriteparallelfifthsoreighths�
+3� Donotwritecrossedoroverlappingvoices�
+ofeachother,andthealtowithinanoctaveof 4�
+Writethesopranoandthealtowithinanoctave
+thetenor�
+5� Thefirstchoiceindoublingistheroot,the  secondchoicewouldbetodoublethefifthofthe    chord�
+fifth 6�
+Achordinsecondinversionshoulddoublethe
+7� TiresolvesupwardtoDo�
+8� FaresolvestoMi�
+74 74
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+4�2 part writing example
+Figured notation provides information that tells us the harmony in each measure (chord, inversion and chord quality)�
+There are multiple correct solutions to each figured bass exercise; we  have  freedom  in  where  we  place  notes�  However,  as  we previously discussed, there are specific guidelines�
+Here is an example of a part writing exercise:
+1�  The key signature with no flats or sharps is telling us that
+we can be either in C Major or A minor� Looking at the music closely, we can see that the first note in the bass melody is C� We can assume then that we are in C major�
+2�  As no symbols are below the bass line, we assume all
+chords go in root position�
+75
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Step 1: Roman numerals
+With this information, we can start completing the arrangement� But, first, we will label each chord with the roman numerals, so we know what we need in each measure�
+If you want, you can add the chord's name and quality below the roman  numerals  and  what  notes  you  need  for  each  chord,  but that is optional� I recommend doing it until you feel comfortable with this type of exercise�
+I           IV           vi        V                I
+C G     F C     Am E    G D         C G E A C B E
+C            F              A          G                  C
+76 76
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+Step 2: write the first chord
+The first chord is C Major, which has C, E, G and C (remember the  rules  about  doubling)�  How  we  arrange  the  missing  notes (C, E and G) is up to us� I recommend starting with a position allowing  us  to  move  in  contrary  motion  to  the  bass  later�  That means starting with an open position if the bass moves up, so we have space to move the soprano down, or a closed one if the bass moves down so we can move up with the soprano�
+I          IV           vi        V                I
+C G     F C     Am E    G D         C G E A C B E
+C            F              A          G                  C
+77
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Step 3: complete the exercise
+Now we are ready to complete the exercise� Here there are possible melodic lines for soprano, alto and tenor, keeping the previously discussed guidelines�
+I         IV        vi       V      I
+78 78
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+practice exercises
+Label the harmony and complete melodic lines for soprano, alto and tenor�
+79
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solutions
+Remember that multiple ways of arranging harmony and solving figured bass exercises exist�
+G I         IV        I D B C G   D E B G C G
+F I          V         I C G A C F C E A F C F
+C I          IV       V        I G E F C A G D B C G E C F G C
+80 80
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+4�3 common progressions
+As  we  already  discussed,  chords  have  different  functions depending on their degree in the scale� Functions are essential when deciding what chords to use in a harmonic progression, as chords naturally lead to other chords depending on their function�
+Chord      Leads to      Does not lead to I/i       any other chord ii/ii°          V/v, vii°                     IV
+III     VI, VII, vii°
+IV/iv         I/i, ii/ii°, V/v, vii°
+V/v                                       IV, ii 6 or ii I/i, vi/VI
+vi/VI                                    6/5 ii/ii°, IV/iv, V/v
+vii°/VII     I, i                             I (i) In harmonic progression, chords proceed from a stable beginning (tonic function) to an unstable climax (predominant and dominant function)  to  resolve  once  again  with  a  stable  chord�  Example: Tonic, Subdominant or predominant (Predominant = before the dominant), dominant, tonic�
+I   -   IV  -   V   - I
+Tonic - Subdominant - Dominant - Tonic
+On  the  next  page,  you  will  find  other  examples  of  common harmonic progressions that you can adapt to your compositions�
+81
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+circle progression:
+Circle progression is a movement of chords where the root (not necessarily the bass) of each chord is a fifth above the next chord� You can use this progression for as many chords as you want� The most popular ending for this progression is ii - V - I�
+V - I       V - I      V - I      V - I     V - I      V - I      V - I in                  in                 in                 in                in                 in                in F B E A D GC
+(ii)          (V)        (I)
+Progression by thirds:
+In this progression the root of each chord moves either  up or down by a third� Common examples of the third progression are:
+I            vi            IV          ii            vii°          I
+Progression by seconds
+In this progression the root of each chord moves either  up or down by a seconds� A common examples of the progression by seconds is:
+IV - V     IV - V    IV - V
+in                    in                   in C  D  E
+82 82
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+practice exercises
+Complete a circle progression in G major and a progression by 3rds in F major�
+83
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solutions
+Circle progression in G Major
+Progression by thirds in F Major
+84 84
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+4�4 harmonic functions
+Harmonic  Function  (aka  Diatonic  Function)  describes  the relationship between any chord or note and the tonal centre of a scale�
+The German Theory of Harmonic Function (Riemann 1899)* states that notes or chords in a scale can have one of the three following functions: These are:
+•  Tonic function
+•  Dominant function
+•  Subdominant function
+Tonic function
+Chords with tonic funtion are destination chords� I - i - VI - v
+dominant function
+Dominant function chords move the harmony forward�
+V - viio
+*Hugo Riemann (1899), Handbuch der Harmonielehre. See A.  Rehding, A., & Floud, R. (2003). Hugo Riemann and the birth of modern musical thought (Vol. 11). Cambridge University Press.
+85
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+dominant function
+Dominant function chords move the harmony forward� V - vii o
+Subdominant function
+Chords with subdominant function are transition  chords� Their
+role is to connect tonic to dominatn chords� IV - ii
+Inversions
+Chords  in  root  position  are  strong  chords  that  can  have  tonic, dominant  or  subdominant  functions�  However,  when  they  are inverted, their function gets weaker�
+As  we  saw  in  the  previous  chapter,  we  can  create  a  melodic line  that  moves  by  step  in  the  bass  by  inverting  chords�  Then, the inverted chord takes on a "passing" role� Another option is moving the bass above or below by step and then returning to its origin� In that case, we call it the neighbour role� Also, inverted chords may create an arpeggio in the bass line� Finally, we may use inverted chords to hold the bass line on the same note while the upper voices change the harmony�
+86 86
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+4�5 the second inversion
+Second  Inversion  triads  sound  unstable� Therefore,  there  are  specific  ways  in  which  we use  them�  The  four  uses  are  second  inversion triads are:
+passing 6/4
+A second inversion chord may function as a passing chord so that the bass line moves stepwise, passing between chords that have the bass a third apart�
+I V 6   I 4 6
+Notice the passing 6/4 is on a weak beat within the measure, passing between two of the same chords�
+87
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+pedal 6/4
+The  IV6  4  chord  with  a  pedal  function  is  often  used  near  the beginning of a phrase to extend the tonic function� As Do is in the bass when the subdominant chord is in the second inversion, we create a pedal—three chords in a row with the same note (Do) in the bass�
+Second inversion chords will usually double the fifth of the chord, so all three chords have Do in the bass and Do doubled, creating a solid tonic function�
+I IV 6   I 4
+88 88
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+neighbour 6/4
+Notice how similar the I and the V chords are� They have one note in common, and the others are adjacent (neighbours)� This type of 6/ 4 chords is called a neighbour 6/4 because the upper voices move one step up or down and back�
+I V 6   I 4
+89
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Arpeggiated 6/4
+The arpeggiated 6  4 creates an arpeggio between the bass notes� It should be on a weak beat
+I I I 6   I 6 4
+90 90
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+Cadential 6/4
+The cadential 6/4 chord is the only second inversion chord found on  a  strong  beat�  In  the  I  6/4,  the  fifth  of  the  chord  is  So,  and because it is in the bass and usually doubled as well, the I 6/4 prolongs dominant function�
+I 6   V      I 4
+91
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+exercises
+Write examples of passing, pedal and cadencial second inversions in A major�
+92 92
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+solutions
+I V I 6 6 4
+I IV I 6 4
+I 6 V   I 4                93
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+4�6 harmonizing a melody
+There  are  many  different  and  possible  ways  in  which  we  can arrange an existing piece of music when harmonizing a melody� The following is just a guide you can use if you feel you need help complete the task�
+1�  Identify the notes of the melody�
+2�  Identify phrases and sections; at the end of each, do the
+cadences first�
+3�  Complete the chord progression that the melody implies�
+What you choose depends mainly on the style and genre� If you are starting, I would advise you that:
+•  Do not invert chords needlessly�
+•  Avoid using seventh chords excessively�  •  Avoid root-position vii° chords�
+•  Avoid overly using non-chord tones (we’ll learn
+what they are in the next chapter) in your bass line�
+•  Use second inversion chords only after you
+understand their function�
+You could harmonize every melody with I, IV, and V7� Adding the vi gives you every chord you need to write any cadence�
+94 94
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+exercises
+The melody is given� Your task is to arrange melodic lines for alto, tenor and bass�
+95
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solution
+There are multiple posible solutions� The following is one of them�
+I    V 6      I          IV   V 6     vi 4
+IV iii I     V7      I 6 iii 6V7    I 4      5
+96 96
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+voice leading
+solution
+The following solution features only chords in root position�
+I     V        I          ii     V       vi
+IV   V I    V      I     I V     I
+97
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+98 98
+m u s i c
+theory
+for
+composition m e l o d i c   s t r u c t u r e m o t i v i c d e v e l o p m e n t m e l o d i c everyone
+n o n   h a r m o n i c   t o n e s
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+5.1 melodic structure
+In  old  music  theory  books,  you  will  find  that  the  elements  of In  old  music  theory  books,  you  will  find  that  the  elements  of music  are  three;  melody,  harmony  and  rhythm�  In  this  chapter, music  are  three;  melody,  harmony  and  rhythm�  In  this  chapter, we will focus on the first element, Melody� It is perhaps the most we will focus on the first element, Melody� It is perhaps the most important aspect of many compositions as a melody is what we important aspect of many compositions as a melody is what we usually end up remembering of any given piece of music we listen usually end up remembering of any given piece of music we listen to� But, what is a melody? A melody is nothing less and nothing to� But, what is a melody? A melody is nothing less and nothing more than just a succession of single notes� In this chapter, you more than just a succession of single notes� In this chapter, you will find a series of devices you can use and combine to create will find a series of devices you can use and combine to create memorable melodies� memorable melodies�
+melodic features
+A  melody  is  a  recognisable  unit  with  a  logical  progression  of pitches  and  rhythm�  Not  a  succession  of  random  pitches�  That would be just noise� Surely, someone could point out that noise can  be  art,  but  we  are  not  discussing  art  at  the  moment�    As Melodies are not a succession of random pitches, they have some distinct characteristics�
+•  Beginning:  Melodies  have  a  beginning,  progress,  move
+forward, and end� When beginning, Melodies do not always begin on a downbeat� Sometimes they can start before the beat� We call that “pick up“ note “anacrusis“�
+•  Movement: A good melody will use mostly stepwise motion
+(conjunct) and some skips  (disjunct) motion�
+•  Range: Most melodies have a range, usually limited to an
+octave�
+100 100
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+•  Form: Except  for  Gregorian  chants,  melodies  employ
+repetition and are built from motives, short melodic ideas and phrases�
+how do we chose notes to build a melody
+Harmony: If we have harmony beforehand, the harmonic structure  gives  us  a  set  of  notes  to  choose  from  in  each measure� Remember that for melody and accompaniment to sound harmonious; they should share tones�
+Movement: Movement between the main melody and the bass  also  impacts  your  choice  of  melody  notes�  We  did discuss movement in the previous chapter�
+Tonality: Four scale tones help to define the tonality and modality of a  melody:
+• Thetonic, because it is the tonal centre of the composition
+• Themediantdefines its harmonic nature, whether major
+or minor�
+• Thedominantis the fifth degree of the scale�
+• Theseventhdegreeof the scale positions your melody
+to return to the tonic; emphasising the leading tone adds tension to a melody�
+•  You generally want your melody to move from unstable
+to stable tones,  especially at the end of a phrase�
+structure
+Structure and form are essential in any musical composition� Structure organises the music and guides the design through the individual components:  introduction, melody, climax, development, and conclusion�
+101
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+phrases and subphrases
+Smaller sections than the ones stated on the previous page are phrases� Phrases are musical ideas that move toward a cadence� They lead logically from one to the next and also have a harmonious relationship with each other� For example, they share elements like motives, rhythm and tones� At the same time, a four-measure music segment only makes a phrase when it concludes with a cadence� Often, phrases occur in pairs (question and response or antecedent and consequent� When this happens, the first phrase ends with a weaker cadence and the second with a more robust harmonic conclusion� This pair of phrases together is known as a period� In these cases, the most common antecedent ending is  a  half  cadence  followed  by  the  consequent  conclusion  with a  perfect  authentic  rhythm�  There  are  different  categories  for periods that you can use when generating your melodies:
+•  The parallel period is when the two phrases making up the
+period begin identically, or the second phrase is a variation of
+the first�
+•  The contrasting period is when the two phrases are different
+from each other�
+•  When  two  phrases  end  with  a  strong  cadence,  there  is  no
+antecedent–consequent relationship, and no period; you have
+just two phrases�
+•  A double period is a group of four phrases in which the only
+perfect authentic cadence appears after the fourth phrase�
+•  A sub-phrase is a section or unit smaller than a phrase and
+does not end with a cadence�
+102 102
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+5.2 motivic development
+A motif is a section of music smaller than a sub phrase� It is a small group of notes repeated throughout the melody to establish its  identity  and  character  and  provide  unity  to  the  whole�  The most famous motive of all time; is perhaps from Beethoven’s Fifth  Symphony�
+In music for films or opera, when a motive is associated with a character, a place or an idea is called a leitmotif� Here is a fragment of the main theme of Star Wars by John Williams with a leitmotif�
+3           3           3              3
+Do not confuse a motif with a theme� A musical theme is a complete melodic phrase� The theme is typically an instantly recognizable tune�  Like  the  motive,  it  establishes  the  piece,  strengthens  it by  repetition,  and  provides  the  framework  for  developing  and embellishing the melody through variation�
+103
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+You can use different strategies to develop small music ideas into bigger sections of music� The most popular strategies for motive development are:
+repetition
+Repeating the motif immediately�
+melodic sequence
+Repeating the original motive but starting on a different pitch�
+Inversion
+Inversion means to flip the motive upside-down, if the original motive moves down, an inversion will move up�
+104 104
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+retrograde
+The motif is played backwards�
+rhytmic displacement
+It keeps the rhythmic structure intact but moves it to a different place in the measure�
+imitation
+A repetition of the motive in a different voice�
+105
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Mode mixture
+Mode mixture combines pitches from the parallel major or minor mode to increase harmonic resources�
+embellishment
+It consists of adding non-chord tones to the melody�
+106 106
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+interval contration and expansion
+It consists of making the intervals within the motif smaller (contraction) or larger (expansion)�
+Original motif        Interval contraction Interval expansion
+diminution and aumentation
+It consists of making the rhythm longer (augmentation) or shorter (diminution)�
+Original motif           Diminution         Aumentation
+107
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+5.3 NON HARMONIC TONES
+Non harmonic tones or nchord tones are pitches that do not belong to the harmony (the chord in that  measure)�  These  tones  create  dissonance and are usually present in the melody but may occur in any voice� Most of the time, non-chord tones  are  added  as  ornaments  or  to  connect different chords�
+There  are  a  few  kinds  of  non-chord  tones  that you can use:
+PASSING NOTES
+A pitch that fills in the space between two chord tones�
+108 108
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+Accented passing tone:
+Occurs on the beat�
+Chromatic passing note:
+Requires an accidental and connects two chord tones, one whole step apart.
+109
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+Neighbor tones:
+It moves the melody from one pitch to another one step above (upper neighbour) or below (lower neighbour) and then returns to the original pitch�
+appoggiatura:
+It leaves the chord tone by leaping up and resolves down by step� It occurs on the beat�
+110 110
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+Escape tone:
+It leaves the chord tone by step and then resolves in the opposite direction by leap.
+Suspension:
+It occurs when the chord tone is held over (suspended) and resolves down by step�
+111
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+anticipation and Retardation:
+An anticipation tone leaves early from the chord tone by step to become part of the resolution chord� On the other hand, retardation is a suspension that resolves upward�
+Anticipation
+Retardation
+112 112
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+melodic composition
+practice exercise
+Following the given harmony create melodic lines for Soprano, Alto and Tenor using non chords�
+I                IV              V            I
+IV          I           V        vi
+IV          I          V7        I 113
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solution
+anticipation     anticipation
+I            IV              V            I
+passing note               retardation   anticipation
+passing note
+IV          I           V        vi
+neighbour        neighbour
+IV          I          V7        I
+114 114
+m u s i c
+theory
+for
+tonicization everyone
+modulation and
+key relationships tonicization and mode mixture secondary function
+m o d u l a t i o n
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+6.1 secondary function
+As discussed in our previous chapter, every chord has a function that depends on its location on the scale (major or minor)� So, for example, an C Major triad could be tonic as I in C major, Dominant as V in F major or subdominant as IV in G major�
+C major tonic the key of C
+C major subdominant in the key of G
+C major dominant in the key of F
+116 116
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+secondary dominant
+The Dominant chord is the only major chord in the scale with a minor 7 (Sol ti re fa)� It is an unstable chord that calls for resolution� The secondary dominant function adds instability and increases the pull for resolution� But, what is a secondary dominant chord?
+A secondary dominant chord is a major chord with a minor seven that  does  not  belong  to  the  key  you  are  at�  For  example,  if  we are in C and want to use C as a secondary dominant, we would add the minor seven (Bb)� In this case, the secondary dominant resolves in F major� Why F major? Becouse C7 is V in F Major
+I         V/IV     IV
+In  this  example,  the  first  chord  is  the  first  degree,  C  Major�  The second chord is C major with a minor seven (C major dominant)� C7 is the V on F major scale� We label C7 in this case as V/IV (fifth [C] of the four degree [F])�
+117
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+secondary leading tone chord
+A secondary leading tone chord is a minor diminisehd chord with a  minor  seven  that  does  not  belong  to  the  key  you  are  in�  For example, if we are in C and we want to use C as a secondary leading tone then we would add the minor third (Eb), the diminished fifth (Gb) and  the minor seven to it (Bb)� In this case, the secondary leading tone chord resolves in Db major� Why Db major? Becouse Cm dim is vii in D Major�
+118 118
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+practice exercise
+Complete the following figured bass exercise� The V/V means the fifth of the fifth� For example, in C major the fifth of G is D dominant�
+119
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solutions
+7
+120 120
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+solutions explained
+First example:
+•  The first chord is C major form by (from bottom to top) C,
+G E, and C�
+•  The second chord is D minor�
+•  The third chord is D Major� It is labelled V/V as D major in
+this context works as dominant of the dominant (G major in this case)�
+Second example:
+•  The first chord is F major form by (from bottom to top) F,
+C, F, and A�
+•  The second chord is C major (V)�
+•  The third chord is  C# half-diminished 7 chord, which
+is the leading chord tone of D major and D minor)� It is labelled vii/ii as C# half diminished 7 in this context and works as the leading chord tone of D minor (ii)�
+Third example:
+•  The first chord is G major formed by (from bottom to top)
+G, B, G, and D�
+•  The second chord is F# dim (vii)�
+•  The vii turns into the V of the IV when F#dim turns into F#
+major which, in this context, is the dominant chord of B minor (iii)�
+•  The chord in the third measure is B minor 7 (iii7 [B A F#
+D]) that turns into B half diminished 7 when F# moves to F)�
+•  The last chord is C major (IV)�
+121
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+6.2 relationships
+Understanding how different keys relate to eachother can help us decide where to modulate when we're writing music� In a musical sense,  a key  relationship  refers  to  how  many  notes  two  scales have in common� There are different ways in which we categorize these relationships��
+relative keys
+It is common to find music that modulates to the relative minor or major key� It s because relative keys share the key signature and, therefore, all pitches� For example, C major and A minor or F major and D minor�
+Remember that you will find the relative minor on the 6th degree of the major scale� At the same time, you will find the relative major on the 3rd degree of the minor scale�
+paralel keys
+Parallel keys are those keys that share the tonic but not the key signature� For example, C major and C minor� We use parallel keys to mix modes�
+close related keys
+Close-related  keys  are  those  key  signatures  that  differ  by  one accidental�  Each  key  has  five  closely  related  keys,  the  relative major or minor and the keys with one more and the key with one less sharp or flat and their relatives�
+122 122
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+Here are some examples of major keys and their close relative keys:
+CloserelatedkeystoCmajor
+•  Relative minor: A minor
+•  + #: G major and its relative, E minor�
+•  +b: F major and its relative D minor�
+Close related keys to G major
+•  Relative minor: E minor
+•  + #: D major and its relative, E minor�
+•  -#: C major and its relative A minor�
+Close related keys to F major
+•  Relative minor: D minor
+•  + b: Eb major and its relative, C minor�
+•  -b: C major and its relative A minor�
+Close related keys to D major
+•  Relative minor: B minor
+•  + #: A major and its relative, F# minor�
+•  - #: G major and its relative E minor�
+123
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+practice exercise
+Complete the chart of relatives and close related keys�
+Major Key     Relative           Closerelatedkeys
+minor key
+C major    A minor   G major and     F major and
+E minor        D minor
+G major    E minor    D major and     C major and
+B minor
+D major    B minor
+A major
+E major
+B major
+F# major
+F major
+Bb major
+Eb major
+Ab major
+Db major
+Gb major
+124 124
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+solution
+Major Key    Relative           Closerelatedkeys minor key
+C major    A minor   G major and     F major and
+E minor        D minor
+G major    E minor    D major and     C major and
+B minor        A minor
+D major    B minor    A major and     G major and
+F# minior       E minor
+A major    F# minor   E major and     D major and
+C# minor       B minor
+E major    C# minor   B major and     A major and
+G# minor      F# minor
+B major   G# minor   F# major and    E major and
+D# minor       C# minor
+F# major   D# minor   C# major and    B major and
+A# minor       G# minor
+F major    D minor   Bb major and    C major and
+G minor        A minor
+Bb major   G minor   Eb major and    F major and
+C minor        D minor
+Eb major    C minor   Ab major and    Bb major and
+F minor        C minor
+Ab major    F minor    Db major and    Eb major and
+Bb minor       F minor
+Db major   Bb minor   Gb major and Db major and
+Eb minor       B minor
+Gb major   Eb minor   Cb major and    Db major and
+Ab minor       Bb minor
+125
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+6.3 tonicization and mode mixture
+tonicization
+Tonicization means taking a few chords from a closely related key to add colour to our composition� If you start analyzing music, you will soon notice accidentals resolving upward by half step� That is a secondary leading tone�
+Tonicization,  involving  secondary  chords,  can  be  very  short  or sometimes involve several measures� To distinguish a tonicization from  a  modulation,  we  need  to  remember  that  a  modulation requires  establishing  and  confirming  the  new  key  through  a cadence�
+mode mixture
+We can add colour and interest to our compositions by borrowing chords for the parallel key to the key we are using� Mode Mixture is a technique that will allow us to combine chords from the major key and the parallel minor key (C major and C minor)� If we are in a major key, we need to lower half step, the third, the sixth and the seven� For example: in C major, instead of E (3rd), A (6th), and B (7th), we use Eb, Ab and Bb�
+You can also use chords from the major parallel key in a minor tonality�
+126 126
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+practice exercise
+Harmonize the melody below and include modal mixture and secondary funtions�
+127
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+solution
+I                  IV4             I            i          VII 6
+iv           V/VII      VII   6       vii   6             I 4 4
+IV6 4     vii70/V   V7      I  6          V7           I 4
+128 128
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+6.4 modulation
+Modulation  is  simply  the  change  or  switches  from  one  key  to another  one�  Remember  that  a  change  of  key  signature  might not  necessarily  accompany  a  modulation�  So,  you  are  likely  to be in another key whenever you are reading music and spot a consistent  and  recurring  accidental�  When  composing  music, there  are  several  strategies  that  we  can  use  to  modulate  and make the change of key subtle or abrupt�
+Pivot chord modulation
+The most common and smoothest way to modulate is by using one or several "pivot "chords that are common to both keys� When the modulation occurs between closely related keys, we can be sure there  will  be  several  chords  in  common�  So  to  modulate  using a common chord, we need first to establish which chords both keys share� Then, we will consider the harmonic function of those common chords to choose our pivot chord� Composers usually choose a pivot chord with a tonic function in the new key�
+129
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+DIRECT MODULATION
+It is the simple and most dramatic strategy for modulation� It occurs when the new key is introduced suddenly with no preparation�
+enharmonic modulation
+The enharmonic modulation is a common tone modulation, but the pivot chord has a different name� Example D# / Eb�
+altered common tone modulation
+You can use an altered common tone modulation when you wish to  modulate  to  a  distant  key  with  no  common  chord  with  the original key� In this case, you will use a chord with the same root in the target key� You will be transforming the chord to fit the new key and using it as a pivot chord� For example; from C to A, using Fm as a pivot �
+C - F - Fm - E - A
+I - IV (iv=vi) V - I
+sequential modulation
+Common in pop music, for a sequential modulation we need to transpose a section, phrase or chord progression of music to a different key�
+chain modulation
+To do a chain modulation, you will use a sequence of chords based on any interval of your choice until you arrive at the new key�
+130 130
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+tonicization and modulation
+Through the six chapters of music theory for everyone, you have learned  how  to  write  and  read  pitch  and  rhythms  on  a  music sheet, recognize and build scales, harmony, chord progressions and different strategies such as tonicization, mode mixture and modulation to add colour to your compositions�
+Well done!
+Remember  that  this  is  an  introductory  book  and  that  for  the sake of simplicity and because I do not want to overwhelm you with concepts, there are several elements that I left out, such as syncopations, form or augmented chords� However, I trust that with  the  knowledge  you  have  gained  from  this  book,  you  can effortlessly  search  for  the  answer  to  whatever  question  might arise� So now it is time to use what you have learned and make music� Good luck!
+131
+/input/import-1/_OceanofPDF.com_Music_Theory_for_Everyone_-_Martin_Islas.pdf
+music theory for everyone
+132 132
